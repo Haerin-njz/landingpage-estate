@@ -54,3 +54,13 @@ a {
   font-weight:500;
   text-decoration: none;
 }
+
+#contact .card {
+  background-color: transparent;
+  border: none;
+  color: white; 
+}
+
+#contact .form-label {
+  color: white; 
+}
